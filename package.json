@@ -1,0 +1,16 @@
+{
+  "name": "utilizei-07-02-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run:mobile": "npx cypress open --config viewportWidth=414,viewportHeight=775",
+    "cypress:run": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
